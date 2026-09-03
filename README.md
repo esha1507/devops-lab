@@ -1,1 +1,1 @@
-Welcome to the DevOps Lab (main)
+Welcome to the DevOps Lab (Resolved Conflict)
